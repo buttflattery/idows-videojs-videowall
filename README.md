@@ -94,7 +94,7 @@ Then choose your desired mode and paste the relevant script provided
 
 ## 1. Carousel Mode  (Default) ##
 
-![delete-single-files](http://tinyii.my/images/video-wall-carousel.png) 
+![delete-single-files](http://plugins.idowstech.com/images/video-wall-carousel.png) 
         
 ### Quick Start Code ### 
 
@@ -127,7 +127,7 @@ Then choose your desired mode and paste the relevant script provided
 
 ## Thumbnail Mode ##
 
-![delete-single-files](http://tinyii.my/images/video-wall-thumb.png)
+![delete-single-files](http://plugins.idowstech.com/images/video-wall-thumb.png)
 
 ### Quick Start Code ### 
 
@@ -160,7 +160,7 @@ Then choose your desired mode and paste the relevant script provided
 ```
 ## Playlist Mode ##
 
-![delete-single-files](http://tinyii.my/images/video-wall-playlist.png)
+![delete-single-files](http://plugins.idowstech.com/images/video-wall-playlist.png)
 
 ### Quick Start Code ###   
 
