@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset="utf-8" />
+    <title>video wall</title>
+    <link href="http://vjs.zencdn.net/6.2.8/video-js.css" rel="stylesheet">
+    <link href="video-wall.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+
+    <script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
+    <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <script src="http://vjs.zencdn.net/6.2.8/video.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
+    <script src="video-wall.js"></script>
+    <script type="text/javascript" src="custom.js"></script>
+
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12">
+                <video id="my-video" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" width="500" height="500"
+                    data-setup="{}" poster="video-uploads/posters/1.jpg">
+                    <source src="video-uploads/jaan-jatti.mp4" type='video/mp4'>
+                    <p class="vjs-no-js">
+                        To view this video please enable JavaScript, and consider upgrading to a web browser that
+                        <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                    </p>
+                </video>
+            </div>
+
+
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <video id="my-video-2" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" width="500" height="500"
+                    data-setup="{}" poster="video-uploads/posters/1.jpg">
+                    <source src="video-uploads/jaan-jatti.mp4" type='video/mp4'>
+                    <p class="vjs-no-js">
+                        To view this video please enable JavaScript, and consider upgrading to a web browser that
+                        <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                    </p>
+                </video>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <video id="my-video-3" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" width="800" height="600"
+                    data-setup="{}" poster="video-uploads/posters/1.jpg">
+                    <source src="video-uploads/jaan-jatti.mp4" type='video/mp4'>
+                    <p class="vjs-no-js">
+                        To view this video please enable JavaScript, and consider upgrading to a web browser that
+                        <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                    </p>
+                </video>
+            </div>
+        </div>
+        <hr/>
+    </div>
+
+</body>
+
+</html>
