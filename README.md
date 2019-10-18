@@ -17,7 +17,7 @@ A jquery plugin that creates a Video Wall for VIDEOJS video player using three d
 * [Bootstrap v3.3.7](https://getbootstrap.com/docs/3.3/)
 
 # Demo #
-https://plugins.idowstech.com/site/demovideowall
+https://plugins.omaraslam.com/site/demovideowall
 
 # Features #
 _________
