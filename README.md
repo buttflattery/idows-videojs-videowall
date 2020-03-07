@@ -19,6 +19,8 @@ A jquery plugin that creates a Video Wall for VIDEOJS video player using three d
 # Demo #
 https://plugins.omaraslam.com/site/demovideowall
 
+# Integration #
+[Yii2 Framework Extension yii2-videowall](https://github.com/buttflattery/yii2-videowall)
 # Features #
 _________
 
